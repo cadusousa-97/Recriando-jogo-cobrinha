@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(28, 82, 28);
+}
+.cobrinha{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+}
